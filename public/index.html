@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Free YouTube Video Downloader</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <div class="toggle-container">
+        <label class="switch">
+            <input type="checkbox" id="darkModeToggle">
+            <span class="slider round"></span>
+        </label>
+    </div>
+
+    <div class="container">
+        <h1>Free YouTube Video Downloader</h1>
+        <form id="downloadForm">
+            <input type="text" id="videoURL" placeholder="Enter YouTube Video URL" required /><br><br>
+
+            <label>Select Quality:</label><br>
+            <div id="qualityButtons">
+                <button type="button" class="qualityBtn" data-quality="best">Best</button>
+                <button type="button" class="qualityBtn" data-quality="1080p">1080p</button>
+                <button type="button" class="qualityBtn" data-quality="720p">720p</button>
+                <button type="button" class="qualityBtn" data-quality="480p">480p</button>
+            </div><br>
+
+            <button type="submit">Download</button>
+        </form>
+
+        <div id="message"></div>
+
+        <div id="loader" class="loader" style="display:none;"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

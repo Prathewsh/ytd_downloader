@@ -38,6 +38,7 @@ git clone https://github.com/Prathewsh/ytd_downloader.git
 ### 2. Install Dependencies
 
 cd ytd-downloader
+
 npm install
 
 ### 3. Start the Application

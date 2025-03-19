@@ -45,7 +45,7 @@ npm install
 
 node server.js
 
-### Your application should now be live at http://localhost:3000.
+Your application should now be live at http://localhost:3000.
 
 
 ## 🔓 License

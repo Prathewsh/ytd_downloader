@@ -26,7 +26,6 @@ Download YouTube videos in multiple resolutions with dark mode, animated loaders
 | -------------------- | -------------------------------- |
 | Node.js + Express.js | Backend Server                   |
 | yt-dlp               | YouTube Video Downloading Tool   |
-| ffmpeg               | Video/Audio Merging (1080p/720p) |
 | HTML/CSS/JS          | Frontend Interface               |
 
 ---

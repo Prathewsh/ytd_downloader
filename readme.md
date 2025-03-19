@@ -1,4 +1,4 @@
-# YTD Downloader - A simple and fast youTube video downloader
+# YTD Downloader - A simple and fast youtube video downloader
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=node.js)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-Latest-blue)

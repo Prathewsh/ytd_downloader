@@ -1,3 +1,5 @@
+<img src="public/logo.png" alt="Logo" width="200">
+
 # YTD Downloader - A High-Performance YouTube Video Downloader
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=node.js)  

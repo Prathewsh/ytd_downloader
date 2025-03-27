@@ -4,7 +4,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=node.js)  
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-Latest-blue)  
-![License](https://img.shields.io/badge/License-MIT-yellow)  
+![License](https://img.shields.io/badge/License-GPL--3.0-yellow)   
 ![Platform](https://img.shields.io/badge/Platform-Web%20App-brightgreen)
 
 YTD Downloader is a modern, lightweight, and high-performance YouTube video downloader. Built using **Node.js**, **Express**, **yt-dlp**, and **vanilla JavaScript**, this open-source project allows users to easily download YouTube videos in a variety of resolutions. The application features a clean, user-friendly interface with a dark mode, animated loaders, and progress bars.
